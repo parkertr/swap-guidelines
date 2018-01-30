@@ -90,3 +90,14 @@ correctly number the bottles or provide enough bottles.
 
 Numbered lids allow the marshalls to quickly check the list if any swappers are
 yet to show.
+
+Once all bottles have been arranged the marshalls will grab brewers' boxes one-by-one
+taking one complete line of bottles.  This will result in the brewer getting one of
+each beer _including their own_.
+
+Brewers receiving one of their own beers back is critical to the ease of the process.
+
+### Consumption
+Brewers MAY use send photos and give feedback about the swap beers.  Part of the process
+is designed to allow feedback but also give new brewers a chance to compare feedback to 
+their own perceptions.
