@@ -4,7 +4,7 @@ brewers or those running swaps for the first time.
 
 ## Introduction
 Nothing more exciting in the beer brewing world than a beer swap.  Brewers
-get together, bring some of their beer and take home some other beer home.
+get together, bring some of their beer and take some other beer home.
 
 Swapping beers allows brewers to taste other styles of beer they would not
 normally brew and can give them valuable feedback.
@@ -18,7 +18,7 @@ A swap involves a group of brewers each brewing a batch of beer, bringing their
 bottled batch to a venue and leaving the venue with one of every beer.
 
 ## Swap venue
-Generally a brewer will put a hand up to host to kick off the swap process.
+Generally a brewer will put a hand up as host to kick off the swap process.
 
 ## Swap list
 The numbered swap list will be an official list of committed swappers.  Each brewer adds
@@ -35,7 +35,8 @@ who brew 20-23L batches.  This allows 24 bottles plus some quality control and
 also limits the bottle handling to 576 bottles.
 
 A backup list MAY be kept as brewers can pull out through work or other
-commitments.
+commitments.  The highest number on the backup list would then fill the main
+list vacancy.
 
 ## The beer
 The beer you swap SHOULD be a beer of your highest brewing standard.  That is to
